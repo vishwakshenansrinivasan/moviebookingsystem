@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 CinemaSync: Movie Booking System
+# 🎬 Movie Booking System
 
 *A modern, intuitive, and feature-rich Python application for seamless movie reservations and management.*
 
@@ -127,5 +127,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <br />
 
 <div align="center">
-  <b>Built with ❤️ by Vishwakshenan S</b>
+  <b>Built with ❤️ by Vishwakshenan Srinivasan</b>
 </div>
