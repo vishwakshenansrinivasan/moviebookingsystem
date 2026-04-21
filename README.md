@@ -98,16 +98,6 @@ python mainpage.py
 
 ---
 
-## 🎨 Visuals & Screenshots
-
-*(Placeholder for UI screenshots. Be sure to add visual captures of your application here once the GUI is finalized to showcase your aesthetic design!)*
-
-| Main Dashboard | Seat Selection | Admin Panel |
-|:---:|:---:|:---:|
-| <img src="https://via.placeholder.com/300x200/1e1e2e/cdd6f4.png?text=Main+Dashboard" alt="Main Dashboard" width="300" /> | <img src="https://via.placeholder.com/300x200/1e1e2e/cdd6f4.png?text=Seat+Selection" alt="Seat Selection" width="300" /> | <img src="https://via.placeholder.com/300x200/1e1e2e/cdd6f4.png?text=Admin+Panel" alt="Admin Panel" width="300" /> |
-
----
-
 ## 🤝 Contributing
 
 Contributions make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
